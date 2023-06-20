@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-20T13:29:58 IST" name="Default suite" finished-at="2023-06-20T13:30:17 IST" duration-ms="18459">
+    <groups>
+    </groups>
+    <test started-at="2023-06-20T13:29:58 IST" name="Default test" finished-at="2023-06-20T13:30:17 IST" duration-ms="18459">
+      <class name="com.demo.qa.testcase.LoginPagetest">
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.demo.qa.testcase.LoginPagetest@6221a451]" started-at="2023-06-20T13:29:58 IST" name="browsersetup" finished-at="2023-06-20T13:30:07 IST" duration-ms="9087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="loginpage()[pri:0, instance:com.demo.qa.testcase.LoginPagetest@6221a451]" started-at="2023-06-20T13:30:07 IST" name="loginpage" finished-at="2023-06-20T13:30:13 IST" duration-ms="6158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method is-config="true" signature="quitt()[pri:0, instance:com.demo.qa.testcase.LoginPagetest@6221a451]" started-at="2023-06-20T13:30:13 IST" name="quitt" finished-at="2023-06-20T13:30:17 IST" duration-ms="3173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitt -->
+      </class> <!-- com.demo.qa.testcase.LoginPagetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
